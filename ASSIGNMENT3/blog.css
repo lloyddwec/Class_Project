@@ -1,0 +1,72 @@
+header {
+    background-color: blue;
+    padding: 5px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 20px;
+    color: white;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+}
+
+article {
+    background-color: darkkhaki;
+}
+
+#a1 {
+    color: purple;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+#a2 {
+    color: blue;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+#a3 {
+    color: crimson;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+#h1 {
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+#h2 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: royalblue;
+}
+
+#h3 {
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+}
+
+#p1 {
+    color: white;
+    font-size: 20px;
+}
+
+#p2 {
+    color: brown;
+    font-size: 20px;
+}
+
+#p3 {
+    color: blue;
+    font-size: 20px;
+}
